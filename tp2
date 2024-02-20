@@ -1,0 +1,3 @@
+sudo net groupmap add ntgroup="Techniciens" unixgroup=techniciens rid="S-1-5-21-2692846852-2306523368-2156416453-1104" type=d
+sudo net groupmap add ntgroup="RH" unixgroup=rh rid="S-1-5-21-2692846852-2306523368-2156416453-1105" type=d
+sudo net groupmap add ntgroup="Finances" unixgroup=finances rid="S-1-5-21-2692846852-2306523368-2156416453-1106" type=d
